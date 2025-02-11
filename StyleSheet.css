@@ -1,5 +1,11 @@
 body {background-color:#eeeeee}
-h1 {background-color:#bcbcbc}
-.first {color:}
+h1 {background-color:#bcbcbc; font: 60px/84px coppperplate, Fantasy}
+.first {color:orange; text-align:center; font: italic bold 16px/30px papyrus, Fantasy}
 .second {color:blue}
 #third {background-color:#bcbcbc; color:#FC53FF}
+.Title {text-align:center}
+
+li a {text-decoration:none}
+li:hover {background-color:#bcbcbc}
+
+ul {list-style-type:none}
